@@ -1,5 +1,5 @@
-# asdf
-### _extendable version manager_
+# aoeu
+### _super extendable version manager_
 
 > I've built plugins to support the following languages:
 > * [Ruby](https://github.com/HashNuke/asdf-ruby)
